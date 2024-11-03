@@ -203,7 +203,7 @@ import { RouterLink } from 'vue-router';
           >
             <div class="img muz-stwb"></div>
             <ProductCard 
-            name="موز وفرولة" 
+            name="موز وفراولة" 
             price="4,000 IQD" 
             />
         </div>

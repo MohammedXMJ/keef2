@@ -84,7 +84,7 @@ import { RouterLink } from 'vue-router';
           >
             <div class="img seven"></div>
             <ProductCard 
-            name="سفين" 
+            name="سفن" 
             price="500 IQD" 
             />
         </div>
