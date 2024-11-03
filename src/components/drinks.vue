@@ -268,7 +268,7 @@ import { RouterLink } from 'vue-router';
   background-position: center;
 }
 .seven{
-  background: url('../assets/dri/7up.jpeg') no-repeat;
+  background: url('../assets/dri/7up.jpg') no-repeat;
   background-size: cover;
   background-position: center;
 }
